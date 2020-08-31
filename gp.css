@@ -1,0 +1,28 @@
+h1 {text-align: center;
+}
+body {
+    background-image: url("employer.jpg");
+    background-repeat: repeat-x;
+    background-position: right top;
+  }
+
+p {text-align: center;
+}
+div {text-align: center;
+}
+li {
+    display: inline;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: aliceblue;
+  }
+  h2 {
+    text-align: center;
+    border: 2px solid ;
+    border-radius: 10px;
+    background-color: blue;
+  }
+  
+
+
+
